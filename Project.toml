@@ -1,6 +1,7 @@
 [deps]
 CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
 CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+Conda = "8f4d0f93-b110-5947-807f-2305c1781a2d"
 DataLoaders = "2e981812-ef13-4a9c-bfa0-ab13047b12a9"
 FastAI = "5d0beca9-ade8-49ae-ad0b-a3cf890e669f"
 IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
